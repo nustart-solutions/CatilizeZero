@@ -17,5 +17,5 @@ The page ships with CSS for HubSpot's form classes (`.hs-form`, `.hs-input`, `.h
 
 ## Related
 
-- Sister site: [CatilizeRx](https://github.com/anneallen/CatilizeRx) (catilizerx.com)
+- Sister site: [CatilizeRx](https://github.com/nustart-solutions/CatilizeRx) (catilizerx.com)
 - catilize-rx.com should 301-redirect at the host/DNS level (confirm target: catilizerx.com vs catilizezero.com).
